@@ -224,6 +224,11 @@ table a{
     margin-left: 10px;
     color: black;
 }
+
+#check{
+    margin-right: 5px;
+}
+
 /* Estilos previos a la media query */
 
 
